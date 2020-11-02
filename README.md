@@ -7,6 +7,7 @@ We meet every other Monday @ 5:30-6:30 pm EST.
 * [Neural Networks Review](https://docs.google.com/presentation/d/1lIet0KKtklYYJDZn4Kz7v1XEVEejwYlXJZ5Nblk6tbQ/edit?usp=sharing) on 10/12/2020
   * [Orange file](https://drive.google.com/file/d/1euAdTG1eRf9rrmtNLSjQTawUk_NjF1Ck/view?usp=sharing) to load the workflow Dr. Chreston showcased
 * [Convolutional Neural Networks](https://docs.google.com/presentation/d/1pxYL6QWjhzYcEVHKHt9wmRCW8vk2HihoragWwWKWh4c/edit?usp=sharing) on 10/19/2020
+* [Natural Language Processing](https://docs.google.com/presentation/d/1AR3kPOyBsCzMj-f92XtxGpEiscaS-ZPLTeJJbr0Rw3c/edit?usp=sharing)
 
 ---
 Email colinpeppler@vt.edu with any questions or ideas.
